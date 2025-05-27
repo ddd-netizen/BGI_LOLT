@@ -1,6 +1,5 @@
  streamlit 
  base64
  pandas 
- matplotlib.pyplot 
- seaborn  
- plotly.express 
+ matplotlib
+ plotly
